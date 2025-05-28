@@ -24,6 +24,7 @@
   * [Security](features/our-features/security.md)
   * [Spotify](features/our-features/spotify.md)
   * [TempVoice](features/our-features/tempvoice.md)
+  * [Ticket](features/our-features/ticket.md)
   * [Twitch](features/our-features/twitch.md)
   * [Welcome & Leave](features/our-features/welcome-and-leave.md)
 * [Changelogs](features/changelogs/README.md)
