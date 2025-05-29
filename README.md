@@ -52,6 +52,12 @@ Hey everyone!
 
 I'm byPixelTV, one of the staff members of Dat Bot. I started using the bot in April 2023 and have always been helping users more or less on the support server. I still help people on the support server, but I also like to develop Minecraft plugins in my free time. Maybe we'll see each other on the support server, but for now I just want to say: Thanks for using Dat Bot! 🎉
 
+{% hint style="success" %}
+If you want to join a great Minecraft Server, <mark style="color:red;">join</mark> <mark style="color:purple;">EraMC</mark> <mark style="color:red;">now</mark>! [https://discord.gg/eramc](https://discord.gg/eramc)
+
+<a href="https://discord.gg/eramc" class="button secondary">Join EraMC</a>
+{% endhint %}
+
 Bye 👋
 
 </details>
