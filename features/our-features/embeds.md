@@ -23,6 +23,17 @@ All old `/embeds create` interactions are unavailable due to the new update. You
 * Save: You can now save Embed Templates for yourself. You can save up to 25 by default.
 * The attached embed.json file is the file that contains all the embed data. Some websites and bots allow the import of Embeds via .json, therefore you can access it directly.
 
+### Variables
+
+* \{{serverid\}} Server ID
+* \{{userid\}} Your user ID
+* \{{username\}} Your username
+* \{{servername\}} Server Name
+* \{{servericon\}} Server Icon
+* \{{usericon\}} User Avatar
+* \{{serverbanner\}} Server Banner
+* \{{userbanner\}} User Banner
+
 ### Commands
 
 * `/embeds create <embed_id>`
