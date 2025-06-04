@@ -8,13 +8,36 @@ icon: volume-high
 
 # TempVoice
 
+### Presets
+
+Presets are used to create a TempVoice Channel with customized settings.
+
+#### Possibilites
+
+<figure><img src="../../.gitbook/assets/grafik.png" alt=""><figcaption></figcaption></figure>
+
+#### Create and use
+
+Create a preset with `/tempvoice presets create [name]` and customize your settings. You can edit an existing preset with `/tempvoice presets edit [preset]`.
+
+To use a preset, use the command `/tempvoice presets load`. If you don't wanna use the preset anymore, use `/tempvoice presets unload`.
+
+#### Permissions
+
+You can add custom permissions by clicking on `[+] Permissions`. You can add permissions for a user or a role, the user permissions are global, the role permissions are for the guild you edit the preset on. It uses a custom permission system that allows you to specificly allow actions.
 
 
-{% hint style="info" %}
-The system is in open beta! Try it out with `/tempvoice setup`.
-{% endhint %}
 
-###
+* <mark style="color:red;">Administrator</mark>: Instead of giving every other single permission, you can give this permission instead.
+* <mark style="color:red;">Manage Bans</mark>: Ban or unban users
+* <mark style="color:red;">Manage Moderators</mark>: Manage the TempVoice channel moderators
+* <mark style="color:yellow;">Manage Channel Properties</mark>: Manage the name, bitrate, userlimit, status (currently not available), region, NSFW status and video quality
+* <mark style="color:yellow;">Kick Members</mark>: Disconnect members
+* <mark style="color:blue;">Manage Locking</mark>: Lock or unlock the channel
+* <mark style="color:blue;">Manage Visibility</mark>: Make the channel visible or invisible
+* <mark style="color:blue;">Manage Invites</mark>: Invite users or remove invites. They can join even if the channel is invisible and/or locked.
+
+<figure><img src="../../.gitbook/assets/grafik (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Permissions
 
@@ -53,7 +76,7 @@ The system is in open beta! Try it out with `/tempvoice setup`.
 
 #### How to remove a server ban
 
-_<mark style="color:yellow;">Note: To be unbanned, you must ask a server moderator to unban you.</mark>_&#x20;
+_<mark style="color:yellow;">Note: To be unbanned, you have to ask an Administrator to unban you.</mark>_&#x20;
 
 1. The moderator has to use `/tempvoice settings`
 2.  &#x20;
@@ -106,6 +129,8 @@ _<mark style="color:yellow;">Note: To be unbanned, you must ask a server moderat
     * Add moderator
     * Remove moderator
 
+
+
 ### Set-Up
 
 1. Use /tempvoice setup and click in the "Continue" button.
@@ -127,3 +152,33 @@ _<mark style="color:yellow;">Note: To be unbanned, you must ask a server moderat
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-07 170637.png" alt=""><figcaption><p>Click on the select menu to choose a channel. The bot sends the Interface in this channel.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-03-07 170845.png" alt=""><figcaption><p>The Interface as of March 07, 2024</p></figcaption></figure>
+
+### Commands
+
+* `/tempvoice settings`&#x20;
+  * Manage the server settings of the TempVoice system.
+* `/tempvoice setup`
+  * Use this command to set up the TempVoice system.
+* `/tempvoice sendinterface`<mark style="color:orange;">`[channel]`</mark>&#x20;
+  * Send the interface in the provided <mark style="color:orange;">\[channel]</mark>.
+* `/tempvoice presets create`<mark style="color:orange;">`[name]`</mark>
+  * Create a TempVoice preset. Use the <mark style="color:orange;">\[name]</mark> to identify the preset.
+* `/tempvoice presets edit`<mark style="color:orange;">`[preset]`</mark>
+  * Edit the provided <mark style="color:orange;">\[preset]</mark>.
+* `/tempvoice presets info`<mark style="color:orange;">`[preset]`</mark>
+  * Get information about the provided <mark style="color:orange;">\[preset]</mark>.
+* `/tempvoice presets delete`<mark style="color:orange;">`[preset]`</mark>
+  * Delete the provided <mark style="color:orange;">\[preset]</mark>.
+* `/tempvoice presets load`<mark style="color:orange;">`[preset]`</mark>
+  * Load <mark style="color:orange;">\[preset]</mark> as your default preset and apply it's changes upon creating a TempVoice channel.
+* `/tempvoice presets delete`
+  * Remove the default use of the used preset.
+
+### FAQ
+
+* Am I able to give extra permissions to the user who creates the TempVoice channel instead of just <mark style="color:green;">Connect</mark> and <mark style="color:green;">View Channel</mark>?
+  * Yes, you are. Use `/tempvoice settings` > click on the button with the checkmark > Click on "Manage extra TempVoice Owner Permissions"
+* Am I able to give the possibility of creating TempVoice channels to just certain roles?
+  * Yes. Use `/tempvoice settings` , click on the button with the checkmark and click on the button with the key symbol. You can set the required roles and even choose whether the user needs all of them or just one.
+* What are InVoice Roles?
+  * InVoice Roles are roles that are given to users who are in a TempVoice channel. If they leave the TempVoice channel, they will get the Invoice Roles removed.
