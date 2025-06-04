@@ -5,13 +5,14 @@ icon: plus
 
 # Autorole
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-02-08 211739.png" alt="" width="383"><figcaption><p>Response when executing the /autoroles command. Taken on February 08th, 2024.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik.png" alt=""><figcaption><p>New interface, introduced in v1.16.0</p></figcaption></figure>
 
 ## Buttons & Select Menus
 
 * List: Get a list that shows all autoroles.
 * Debug: Is the system not working? If so, use this button.
 * Reset: Reset the system data. This cannot be undone.
+* <mark style="color:blue;">\[NEW]</mark> Sync: Synchronize the autoroles
 * Toggle: Activate or deactivate the autoroles. If these are deactivated, the autoroles are not assigned.
 * Add autorole: Add a role as an autorole
   * The role can not be `@everyone`,&#x20;

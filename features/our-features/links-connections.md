@@ -14,7 +14,7 @@ You can connect your Clash of Clans account and your Valorant account to Dat Bot
 See also [games.md](games.md "mention")
 
 * `/link valorant`
-  * Link your VALORANT account with Dat Bot.
+  * Link your VALORANT account with Dat Bot. Click on the Button "Link" to link your account.&#x20;
 
 
 
