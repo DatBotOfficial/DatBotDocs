@@ -5,6 +5,10 @@ icon: ticket
 
 # Ticket
 
+{% hint style="danger" %}
+This documentation page is not done yet and will be completed within the next few days.
+{% endhint %}
+
 ### General
 
 The Dat Bot Ticket system allows you many customization options to give you many possibilites to use.&#x20;
