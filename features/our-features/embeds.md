@@ -46,11 +46,14 @@ All old `/embeds create` interactions are unavailable due to the new update. You
     * This is the message link of the embed.
   * Argument \<embed\_id>
     * Embed an existing Database Embed.
-* `/embeds copy [message_link]`
+* `/embeds copybymessagelink [message_link]`
   * Copy an existing embed, this does not have to be from Dat Bot.
   * &#x20;This allows you to send it on or change it without editing the original.
   * Argument \[message\_link]
     * This is the message link of the embed.
+* `/embeds copybyid [embed_id] [name]`
+  * Copy an existing embed with the embed id \[embed\_id] and save it in the database with the new \[name].
+  * &#x20;This allows you to send it on or change it without editing the original.
 * `/embeds delete [embed_id]`
   * Delete an embed template created by you.
   * Argument \[embed\_id]
