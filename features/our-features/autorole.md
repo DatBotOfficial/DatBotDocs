@@ -5,7 +5,7 @@ icon: plus
 
 # Autorole
 
-<figure><img src="../../.gitbook/assets/grafik.png" alt=""><figcaption><p>New interface, introduced in v1.16.0</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik (4).png" alt=""><figcaption><p>New interface, introduced in v1.16.0</p></figcaption></figure>
 
 ## Buttons & Select Menus
 
