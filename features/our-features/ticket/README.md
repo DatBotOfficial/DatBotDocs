@@ -50,4 +50,4 @@ We recommend to read [namings.md](namings.md "mention") to understand the basics
 
 ### FAQ
 
-\--> [faq.md](faq.md "mention")
+\--> [general-faq.md](general-faq.md "mention")
