@@ -15,6 +15,11 @@ layout:
 
 # Getting started
 
+## v1.16 is out now!
+
+* Use the Ticket System ([ticket](features/our-features/ticket/ "mention")) now! The most advanced ticket system you have ever seen!
+* Read the full changelog here: [v1.16.0.md](features/changelogs/v1.16.0.md "mention")
+
 ### <mark style="color:red;">Additional Information</mark>
 
 * Need more help? <mark style="color:yellow;">Join</mark> the [support server](https://discord.gg/BQumAujuvk)
