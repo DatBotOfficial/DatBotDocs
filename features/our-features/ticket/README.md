@@ -36,10 +36,6 @@ We recommend to read [concepts.md](concepts.md "mention") to understand the basi
 
 \--> [transfers.md](transfers.md "mention")
 
-### Modals
-
-\--> [Broken link](broken-reference "mention")
-
 ### Commands
 
 \--> [commands.md](commands.md "mention")
