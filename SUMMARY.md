@@ -27,7 +27,6 @@
   * [Ticket](features/our-features/ticket/README.md)
     * [Concepts](features/our-features/ticket/concepts.md)
     * [General / FAQ](features/our-features/ticket/general-faq.md)
-    * [Namings](features/our-features/ticket/namings.md)
     * [Setup](features/our-features/ticket/setup.md)
     * [Panels](features/our-features/ticket/panels.md)
     * [Settings](features/our-features/ticket/settings.md)
