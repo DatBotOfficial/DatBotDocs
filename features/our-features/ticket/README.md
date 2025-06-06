@@ -4,8 +4,8 @@ icon: ticket
 
 # Ticket
 
-{% hint style="danger" %}
-This documentation page is not done yet and will be completed within the next few days.
+{% hint style="success" %}
+Documentation is ready since June 06, 2025.
 {% endhint %}
 
 ### General
@@ -38,7 +38,7 @@ We recommend to read [concepts.md](concepts.md "mention") to understand the basi
 
 ### Modals
 
-\--> [modals.md](modals.md "mention")
+\--> [Broken link](broken-reference "mention")
 
 ### Commands
 

@@ -31,7 +31,6 @@
     * [Panels](features/our-features/ticket/panels.md)
     * [Settings](features/our-features/ticket/settings.md)
     * [Transfers](features/our-features/ticket/transfers.md)
-    * [Modals](features/our-features/ticket/modals.md)
     * [Commands](features/our-features/ticket/commands.md)
     * [Common Issues](features/our-features/ticket/common-issues.md)
   * [Twitch](features/our-features/twitch.md)

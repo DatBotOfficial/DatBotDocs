@@ -30,9 +30,9 @@ If enabled, after the deletion of a ticket a user will get the possibility to pr
 
 ### Transfers ([#general](transfers.md#general "mention"))
 
-### Modal ([modals.md](modals.md "mention"))
+### Modal ([Broken link](broken-reference "mention"))
 
-Modals are Discord's option to easily and safely get user input data. This is how a Modal looks like:\
+Modals are Discord's option to easily and safely get user input data. "General Support" is the title in this instance. A modal can have up to 5 fields. One field contains of a label, for example "Your Ingame Name" and if provided a placeholder, in this instance "byPixelTV". A field can be required or not. This is how a Modal looks like:\
 
 
 <figure><img src="../../../.gitbook/assets/grafik (8).png" alt=""><figcaption></figcaption></figure>

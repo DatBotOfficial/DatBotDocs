@@ -34,3 +34,12 @@ If the system still doesn't work, please contact support
 
 </details>
 
+<details>
+
+<summary>How do I access a modal field value within the opening embed?</summary>
+
+You can access the value by using this placeholder in the opening embed:\
+`{{modal[`<mark style="color:blue;">`custom_id`</mark>`]}}`\
+Replace <mark style="color:blue;">custom\_id</mark> with your Custom ID provided in the Add modal field process: [#adding-a-modal-field](settings.md#adding-a-modal-field "mention")
+
+</details>

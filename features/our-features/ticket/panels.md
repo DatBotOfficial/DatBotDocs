@@ -20,7 +20,7 @@ Create a Panel using `/ticket panel create [name]`, edit an existing panel using
 
 ### Name
 
-Manage the short name of the Panel.
+Manage the short name of the Panel. Click on "Name" to edit the name.
 
 ### Components
 
