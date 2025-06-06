@@ -16,9 +16,9 @@ The Dat Bot Ticket system allows you many customization options to give you many
 We recommend to read [concepts.md](concepts.md "mention") to understand the basics. Continue reading [#from-the-setup-to-the-ticket](./#from-the-setup-to-the-ticket "mention").
 {% endhint %}
 
-### Namings
+### Concepts
 
-\--> [Broken link](broken-reference "mention")
+\--> [concepts.md](concepts.md "mention")
 
 ### From the Setup to the Ticket
 

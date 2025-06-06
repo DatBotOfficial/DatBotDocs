@@ -6,11 +6,23 @@ icon: ticket
 
 ### Autoclaim
 
+{% hint style="danger" %}
+Make sure that the staff members have the "claim" permission, otherwise this will not work.
+{% endhint %}
+
+Autoclaim is a system that allows the automatic claim after wrting a message in a ticket. The user needs the Claim or Admin permission to use this feature. The permission can be added in the [settings.md](settings.md "mention").
+
 ### Only One Mode
+
+Only One Mode only allows one staff member to write in a ticket after claiming it. If unclaimed, everyone can write in the ticket again until another staff member claims it. Can be enabled in [settings.md](settings.md "mention").
 
 ### Closerequests
 
+Closerequests are used to ask for the permission to close a ticket. The user and the staff can send a close request and the other person can accept or reject the close request.
+
 ### Feedback
+
+If enabled, after the deletion of a ticket a user will get the possibility to provide feedback about a ticket in their DMs. Under the transcript message, they have the possibility to give up to 5 ⭐. Can be enabled in [settings.md](settings.md "mention").
 
 ### Panel ([#general](panels.md#general "mention"))
 
