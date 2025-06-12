@@ -25,6 +25,7 @@
   * [Spotify](features/our-features/spotify.md)
   * [TempVoice](features/our-features/tempvoice.md)
   * [Ticket](features/our-features/ticket/README.md)
+    * [Ticket Usage](features/our-features/ticket/ticket-usage.md)
     * [Concepts](features/our-features/ticket/concepts.md)
     * [General / FAQ](features/our-features/ticket/general-faq.md)
     * [Setup](features/our-features/ticket/setup.md)

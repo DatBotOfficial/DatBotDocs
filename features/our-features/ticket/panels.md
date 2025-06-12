@@ -16,7 +16,7 @@ Example:&#x20;
 
 Create a Panel using `/ticket panel create [name]`, edit an existing panel using `/ticket panel edit [panel]`
 
-<div align="left"><figure><img src="../../../.gitbook/assets/grafik (2) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/grafik (2) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Name
 

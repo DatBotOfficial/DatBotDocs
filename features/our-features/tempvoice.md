@@ -14,7 +14,7 @@ Presets are used to create a TempVoice Channel with customized settings.
 
 #### Possibilites
 
-<figure><img src="../../.gitbook/assets/grafik (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Create and use
 
@@ -37,7 +37,7 @@ You can add custom permissions by clicking on `[+] Permissions`. You can add per
 * <mark style="color:blue;">Manage Visibility</mark>: Make the channel visible or invisible
 * <mark style="color:blue;">Manage Invites</mark>: Invite users or remove invites. They can join even if the channel is invisible and/or locked.
 
-<figure><img src="../../.gitbook/assets/grafik (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/grafik (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Permissions
 
