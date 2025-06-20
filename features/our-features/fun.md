@@ -21,7 +21,7 @@ icon: circle-dot
 
 
 
-* `dog`
+* `/dog`
   * Answers with a random picture of a dog.
 
 {% hint style="warning" %}
