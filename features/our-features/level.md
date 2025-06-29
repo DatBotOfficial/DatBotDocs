@@ -10,3 +10,11 @@ The Level System v2 is currently in a public beta. There may be bugs. If you fin
 <a href="https://discord.gg/BQumAujuvk" class="button secondary" data-icon="link">Support</a>
 {% endhint %}
 
+### Server Settings
+
+\--> [settings.md](level/settings.md "mention")
+
+### Commands
+
+\--> [commands.md](level/commands.md "mention")
+
