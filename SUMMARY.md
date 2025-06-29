@@ -16,7 +16,7 @@
   * [Games](features/our-features/games.md)
   * [Giveaways](features/our-features/giveaways.md)
   * [Information](features/our-features/information.md)
-  * [Level](features/our-features/level/README.md)
+  * [Level](features/our-features/level.md)
     * [Settings](features/our-features/level/settings.md)
     * [Commands](features/our-features/level/commands.md)
   * [Links / Connections](features/our-features/links-connections.md)
