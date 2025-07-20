@@ -1,16 +1,5 @@
 ---
 icon: circle-chevron-right
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Getting started
@@ -51,7 +40,7 @@ I'm Voroniyx, have known Gamet since April 2023, have been using DatBot since th
 
 <details>
 
-<summary>byPixelTV - Staff</summary>
+<summary>byPixelTV - Frontend Developer</summary>
 
 Hey everyone!
 
